@@ -10,6 +10,7 @@ Short instruction:
   1. Write a Managed DLL.
   2. Register the Managed DLL for Use with COM or with Native C++.
   3. Call the Managed DLL from Native C++ Code.
+  
   Read for help: https://support.microsoft.com/en-us/help/828736/how-to-call-a-managed-dll-from-native-visual-c-code-in-visual-studio-n 
 
 ## 4 type interaction:
