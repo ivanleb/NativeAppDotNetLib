@@ -6,6 +6,10 @@ ClassLibWinForms - C# dll project with winForms
 
 CppWrapper - executable project  
 
+WrapperLib - native dll 
+
+BuilderProject - executable project (Borland Builder, RAD Studio 10.1)
+
 Short instruction:
   1. Write a Managed DLL.  
       a. From Dveloper Command Promt in solution folder run *sn.exe -k MyKeyFile.SNK*.
