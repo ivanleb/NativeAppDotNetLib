@@ -7,7 +7,7 @@ ClassLibWinForms - C# dll project with winForms
 CppWrapper - executable project  
 
 Short instruction:
-  1. Write a Managed DLL.
+  1. Write a Managed DLL.  
       a. From Dveloper Command Promt in solution folder run *sn.exe -k MyKeyFile.SNK*.
       
       b. Replace the following lines of code in the AssemblyInfo.cs file  
