@@ -19,7 +19,7 @@ Short instruction:
           `[assembly: AssemblyDelaySign(false)]`   
           `[assembly: AssemblyKeyFile("..\\..\\MyKeyFile.SNK")]`  
   
-  2. Register the Managed DLL for Use with COM or with Native C++.
+  2. Register the Managed DLL for Use with COM or with Native C++.  
       From Dveloper Command Promt in folder with .dll file run *RegAsm.exe ClassLibWinForms.dll /tlb:ClassLibWinForms.tlb /codebase*
   3. Call the Managed DLL from Native C++ Code.
   
